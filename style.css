@@ -1,0 +1,9 @@
+ body {
+     background-color: rgb(51, 50, 50);
+     font-family: 'Indie Flower', cursive;
+ }
+
+.text {
+    text-align: center;
+    color: white;
+}
